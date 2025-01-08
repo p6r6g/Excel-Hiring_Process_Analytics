@@ -1,2 +1,12 @@
-# Excel-Hiring_Process_Analytics
-Analyzing the company's hiring process data and draw meaningful insights using MS Excel &amp; Statistics 
+# Excel - Hiring Process Analytics
+Analyzing the company's hiring process data and draw meaningful insights using MS Excel tables, pivots, charts &amp; Statistics 
+
+Topics:
+    
+    1. Hiring Analysis
+    2. Salary Analysis
+    3. Salary Distribution
+    4. Departmental Analysis
+    5. Position Tier Analysis
+
+Find the Report.pdf for a detailed analysis
