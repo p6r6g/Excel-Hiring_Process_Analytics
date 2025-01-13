@@ -1,5 +1,5 @@
 # Excel - Hiring Process Analytics
-Analyzing the company's hiring process data and draw meaningful insights using MS Excel tables, pivots, charts &amp; Statistics 
+Analyzing a company's hiring process data to draw meaningful insights using MS Excel (tables, pivots, charts) &amp; Statistics 
 
 Topics:
     
